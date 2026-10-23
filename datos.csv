@@ -1,0 +1,11 @@
+id_producto,nombre_producto,sucursal,stock,precio_unitario
+1,Laptop HP,San Salvador,25,650.00
+2,Teclado Mecánico,San Salvador,50,45.50
+3,Mouse Inalámbrico,Santa Ana,80,20.00
+4,Monitor 24",Santa Ana,30,180.00
+5,Impresora Multifuncional,San Miguel,15,220.00
+6,Disco Duro SSD 1TB,San Miguel,40,90.00
+7,Memoria RAM 16GB,La Libertad,60,75.00
+8,Router Wi-Fi,La Libertad,35,50.00
+9,Tablet Lenovo,Sonsonate,20,150.00
+10,Audífonos Gamer,Sonsonate,45,35.00
